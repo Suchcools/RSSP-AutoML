@@ -1,0 +1,257 @@
+2023-11-23 09:59:03,690 - utils.py - New Model Id - 3
+2023-11-23 09:59:03,690 - utils.py - 
++--------------------------------------------------------------------------+
+2023-11-23 09:59:03,690 - utils.py - |    Father Model ID     |                 Added Operation                 |
+2023-11-23 09:59:03,690 - utils.py - +--------------------------------------------------------------------------+
+2023-11-23 09:59:03,690 - utils.py - |                        |             to_concat_skip_model 6 7            |
+2023-11-23 09:59:03,690 - utils.py - |           0            |              to_add_skip_model 4 9              |
+2023-11-23 09:59:03,690 - utils.py - +--------------------------------------------------------------------------+
+2023-11-23 10:08:16,670 - utils.py - New Model Id - 4
+2023-11-23 10:08:16,671 - utils.py - 
++--------------------------------------------------------------------------+
+2023-11-23 10:08:16,671 - utils.py - |    Father Model ID     |                 Added Operation                 |
+2023-11-23 10:08:16,671 - utils.py - +--------------------------------------------------------------------------+
+2023-11-23 10:08:16,671 - utils.py - |                        |             to_concat_skip_model 1 8            |
+2023-11-23 10:08:16,671 - utils.py - |           0            |             to_concat_skip_model 2 9            |
+2023-11-23 10:08:16,671 - utils.py - +--------------------------------------------------------------------------+
+2023-11-23 10:23:22,022 - utils.py - New Model Id - 5
+2023-11-23 10:23:22,023 - utils.py - 
++--------------------------------------------------------------------------+
+2023-11-23 10:23:22,023 - utils.py - |    Father Model ID     |                 Added Operation                 |
+2023-11-23 10:23:22,023 - utils.py - +--------------------------------------------------------------------------+
+2023-11-23 10:23:22,023 - utils.py - |                        |            to_concat_skip_model 4 10            |
+2023-11-23 10:23:22,023 - utils.py - |           3            |            to_concat_skip_model 9 28            |
+2023-11-23 10:23:22,023 - utils.py - +--------------------------------------------------------------------------+
+2023-11-23 10:32:02,137 - _tools.py - os.makedirs('./nc_manu/output/R_CDS/outputs/autokeras/regression')
+2023-11-23 10:32:02,138 - saving.py - write lines to './nc_manu/output/R_CDS/outputs/autokeras/regression/final_autokeras_regression_graph'
+2023-11-23 10:32:02,139 - execute.py - run [PosixPath('dot'), '-Kdot', '-Tpdf', '-O', 'final_autokeras_regression_graph']
+2023-11-23 10:32:03,124 - _tools.py - os.makedirs('./nc_manu/output/R_CDS/outputs/autokeras/regression')
+2023-11-23 10:32:03,125 - saving.py - write lines to './nc_manu/output/R_CDS/outputs/autokeras/regression/final_autokeras_regression_graph'
+2023-11-23 10:32:03,126 - execute.py - run [PosixPath('dot'), '-Kdot', '-Tpdf', '-O', 'final_autokeras_regression_graph']
+2023-11-23 10:32:03,347 - _tools.py - os.makedirs('./nc_manu/output/R_CDS/outputs/autokeras/regression')
+2023-11-23 10:32:03,348 - saving.py - write lines to './nc_manu/output/R_CDS/outputs/autokeras/regression/final_autokeras_regression_graph'
+2023-11-23 10:32:03,349 - execute.py - run [PosixPath('dot'), '-Kdot', '-Tpdf', '-O', 'final_autokeras_regression_graph']
+2023-11-23 10:32:03,963 - _tools.py - os.makedirs('./nc_manu/output/R_CDS/outputs/autokeras/regression')
+2023-11-23 10:32:03,964 - saving.py - write lines to './nc_manu/output/R_CDS/outputs/autokeras/regression/final_autokeras_regression_graph'
+2023-11-23 10:32:03,965 - execute.py - run [PosixPath('dot'), '-Kdot', '-Tpdf', '-O', 'final_autokeras_regression_graph']
+2023-11-23 10:32:04,111 - _tools.py - os.makedirs('./nc_manu/output/R_CDS/outputs/autokeras/regression')
+2023-11-23 10:32:04,112 - saving.py - write lines to './nc_manu/output/R_CDS/outputs/autokeras/regression/final_autokeras_regression_graph'
+2023-11-23 10:32:04,114 - execute.py - run [PosixPath('dot'), '-Kdot', '-Tpdf', '-O', 'final_autokeras_regression_graph']
+2023-11-23 10:32:23,330 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,345 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,769 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,776 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,801 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,807 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,844 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,850 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,902 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:23,912 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:24,311 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:24,319 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:24,342 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:24,349 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:24,387 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:24,393 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:24,425 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:24,434 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:49,647 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:49,653 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,031 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,037 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,059 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,065 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,100 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,106 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,152 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,161 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,558 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,565 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,587 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,593 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,628 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,634 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,664 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,672 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,810 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:50,816 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,365 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,373 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,397 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,405 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,445 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,452 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,493 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,506 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,911 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,920 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,943 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,951 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:51,994 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:52,001 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:52,032 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:32:52,044 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,056 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,062 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,450 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,458 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,483 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,490 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,526 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,532 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,580 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:05,590 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:06,001 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:06,008 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:06,032 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:06,040 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:06,078 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:06,084 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:06,117 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:06,125 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:13,513 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:13,519 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:13,902 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:13,909 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:13,932 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:13,938 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:13,975 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:13,981 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,028 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,038 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,442 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,449 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,477 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,484 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,521 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,527 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,560 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,569 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,711 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:14,716 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,283 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,290 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,315 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,321 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,359 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,365 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,414 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,423 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,848 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,855 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,880 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,887 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,926 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,932 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,966 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:33:15,974 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 10:40:40,576 - connectionpool.py - Starting new HTTPS connection (1): pypi.org:443
+2023-11-23 10:40:40,919 - connectionpool.py - https://pypi.org:443 "GET /pypi/tpot/json HTTP/1.1" 200 13097
+2023-11-23 11:41:39,492 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:39,498 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:39,871 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:39,878 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:39,902 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:39,909 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:39,945 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:39,951 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,002 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,011 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,424 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,431 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,455 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,466 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,517 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,527 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,907 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:40,915 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,029 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,035 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,410 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,417 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,439 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,446 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,482 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,488 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,528 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,538 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,952 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,959 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,981 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:42,988 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,024 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,030 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,060 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,069 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,197 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,203 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,782 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,789 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,813 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,821 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,859 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,865 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,907 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:43,918 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:44,315 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:44,323 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:44,346 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:44,353 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:44,392 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:44,399 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:44,431 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:44,440 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:47,622 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:47,628 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,009 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,016 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,040 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,047 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,083 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,089 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,135 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,145 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,601 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,609 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,631 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,638 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,675 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,681 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,714 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:48,723 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:51,959 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:51,965 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,338 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,345 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,367 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,374 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,410 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,416 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,462 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,472 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,941 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,948 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,970 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:52,977 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,014 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,019 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,050 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,058 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,194 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,200 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,744 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,751 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,775 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,782 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,820 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,826 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,868 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:53,878 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:54,278 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:54,286 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:54,310 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:54,317 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:54,356 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:54,362 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:54,395 - _base.py - top of axes not in the figure, so title not moved
+2023-11-23 11:41:54,404 - _base.py - top of axes not in the figure, so title not moved
