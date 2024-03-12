@@ -21,7 +21,7 @@ DeepSwarm:
   max_depth: 2
   metrics: loss
   reuse_patience: 1
-  save_folder: ./ckpt/rigorous/Gene_group1/models/deepswarm/regression/
+  save_folder: ./ckpt/rigorous/RBS_group5/models/deepswarm/regression/
   spatial_nodes:
   - InputNode
   - Conv2DNode
@@ -113,7 +113,7 @@ Nodes:
     attributes:
       shape:
       - !!python/tuple
-        - 264
+        - 248
         - 4
         - 1
     transitions:

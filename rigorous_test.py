@@ -26,22 +26,25 @@ num_generations = 5
 population_size = 5
 
 
-for col in ["Gene","Promoter","RBS"]:
-    for i in range(1,6):
-        data_folder = './dataset/rigorous/'
-        data_file = f'train_{col}_group{i}.csv'
-        input_col = 'seq'
-        target_col = 'target'
-        sequence_type = 'nucleic_acid'
-        verbosity = 1
-        task = 'regression' # binary_classification, multiclass_classification, regression
+# for col in ["Gene","Promoter","RBS"]:
+#     for i in range(1,6):
+# 1 4
+col = "RBS"
+i = "5"
+data_folder = './dataset/rigorous/'
+data_file = f'train_{col}_group{i}.csv'
+input_col = 'seq'
+target_col = 'target'
+sequence_type = 'nucleic_acid'
+verbosity = 1
+task = 'regression' # binary_classification, multiclass_classification, regression
 
-        # Specify target folders for saving models and results
-        # Generic here - will add the tags specifying classification/regression
-        # as well as specific for the AutoML tool being used (i.e. /tpot/)
-        root_path = f"./ckpt/rigorous/{col}_group{i}"
-        os.mkdir(root_path)
-        model_folder = f'{root_path}/models/'
-        output_folder = f'{root_path}/outputs/'
-
-        run_bioautomated(task, data_folder, data_file, sequence_type, model_folder, output_folder, input_col=input_col, target_col=target_col, max_runtime_minutes=max_runtime_minutes, num_folds=num_folds, verbosity=verbosity, num_final_epochs=num_final_epochs, yaml_params=yaml_params, num_generations=num_generations, population_size=population_size)
+# Specify target folders for saving models and results
+# Generic here - will add the tags specifying classification/regression
+# as well as specific for the AutoML tool being used (i.e. /tpot/)
+root_path = f"./ckpt/rigorous/{col}_group{i}"
+os.mkdir(root_path)
+model_folder = f'{root_path}/models/'
+output_folder = f'{root_path}/outputs/'
+automl_search_techniques = "tpot"
+run_bioautomated(task, data_folder, data_file, sequence_type, model_folder, output_folder, input_col=input_col, target_col=target_col, max_runtime_minutes=max_runtime_minutes, num_folds=num_folds, verbosity=verbosity, num_final_epochs=num_final_epochs, yaml_params=yaml_params, num_generations=num_generations, population_size=population_size)
